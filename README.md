@@ -1,5 +1,7 @@
 ### 👋🎓 Hello, i am Max. I am a first year Computer Engineering student Istanbul, Fenerbahce University.
 
+<br>
+
 ## 🚀💻 Main Technologies & Tools
   
   ### Technologies:
