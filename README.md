@@ -49,6 +49,7 @@
 ## 📧 Contacts:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-pintea-b353281b7/)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/749247895722786917)
 
   ![](https://komarev.com/ghpvc/?username=Gatix1&style=flat-square&label=Views)
   ![](https://badges.pufler.dev/visits/gatix1/gatix1?color=black&logo=github&style=flat-square)
