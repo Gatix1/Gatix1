@@ -1,4 +1,4 @@
-### 👋🎓 Hello, i am Maxim. I am a second year international Computer Engineering student in Istanbul, Fenerbahce University.
+### 👋🎓 Hello, i am Maxim. I am a third year international Computer Engineering student in Istanbul, Fenerbahce University.
 
 <br>
 
